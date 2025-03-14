@@ -1,5 +1,5 @@
-# 📌 Advanced Sorting Visualizer
-🚀 A **Sorting Algorithm Visualizer** built using **Python, Tkinter, and Matplotlib**, supporting **Merge Sort, Quick Sort, and Heap Sort** with real-time complexity analysis.  
+#  Advanced Sorting Visualizer
+A **Sorting Algorithm Visualizer** built using **Python, Tkinter, and Matplotlib**, supporting **Merge Sort, Quick Sort, and Heap Sort** with real-time complexity analysis.  
 
 ![Sorting Visualizer](https://user-images.githubusercontent.com/your-username/demo.gif) *(Add a GIF or screenshot of your project in action!)*  
 
@@ -7,9 +7,9 @@
 
 ## 📋 Features
 ✅ **Sorting Algorithms Supported**:  
-- Merge Sort 🟢  
-- Quick Sort 🔴  
-- Heap Sort 🟣  
+- Merge Sort   
+- Quick Sort   
+- Heap Sort  
 
 ✅ **Interactive UI**:
 - Generate a random array  
@@ -25,8 +25,8 @@
 
 ---
 
-## 🚀 Installation & Setup
-### 🔧 Prerequisites
+##  Installation & Setup
+###  Prerequisites
 Ensure you have **Python 3.x** installed on your system. You can check with:
 
     python --version
